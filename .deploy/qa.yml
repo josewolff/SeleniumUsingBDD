@@ -1,0 +1,2 @@
+env: "qa"
+host: "https://www.laserants.com/bmi-calculator"
